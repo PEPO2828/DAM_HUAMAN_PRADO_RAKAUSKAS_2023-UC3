@@ -1,4 +1,21 @@
 <resources>
     <string name="app_name">DAMUC2_Miguel-Prado_Victor-Huaman_Sebastian-Rakauskas</string>
     <string name="boton_principal">Enviar</string>
+    <string name="textView2_ExamendeAdmision2023">Examen de Admision 2023</string>
+    <string name="textView3_FormulariodeRegistroUntels">Formulario de Registro Untels</string>
+    <string name="textView_ApellidosyNombre">Apellidos y Nombre</string>
+    <string name="textView4_CorreoElectrónico">Correo Electrónico</string>
+    <string name="textView5_Clave">Clave</string>
+    <string name="textView6_FechadeNacimiento">Fecha de Nacimiento</string>
+    <string name="textView7_Carrera">Carrera</string>
+    <string name="radioButton_IngenieríadeSistemas">Ingeniería de Sistemas</string>
+    <string name="radioButton2_IngAmbiental">Ing Ambiental</string>
+    <string name="radioButton_ingSistemas">Ing.Sistemas</string>
+    <string name="radioButton3_IngenieríaMecánica">Ing.Mecánica</string>
+    <string name="radioButton4_Administración">Admin</string>
+    <string name="checkBox2_Radio">Radio</string>
+    <string name="checkBox_Internet">Internet</string>
+    <string name="checkBox3Amigo">Amigo</string>
+    <string name="checkBox4_Publicidad">Publicidad</string>
+    <string name="button_primero">Enviar</string>
 </resources>
